@@ -1,0 +1,36 @@
+.navbar {
+    width: 100wh;
+    padding: 1rem 3rem;   
+    display: flex;
+    justify-content: space-between;;
+    border-bottom: 2px solid #e3dfdf;
+}
+
+.logo {
+    text-transform: uppercase;
+    font-size:2rem;
+    color: royalblue
+}
+
+.btn {
+    padding: 0.1em 1.6em;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:0.5rem;
+    border: 0;
+    outline: 0;
+    border-radius: 4px;
+    cursor: pointer
+}
+
+.btn:disabled {
+    cursor: not-allowed;
+}
+
+
+
+
+
