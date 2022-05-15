@@ -22,7 +22,7 @@ Here are a few screenshots showing different parts of the app.
 
 ### Response Prettified JSON
 
-![response json](https://github.com/devgurbir/reqer/blob/images/public/response-json.pngg)
+![response json](https://github.com/devgurbir/reqer/blob/images/public/response-json.png)
 
 
 ### Response Raw JSON
